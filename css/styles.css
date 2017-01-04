@@ -1,0 +1,22 @@
+.about {
+  float: right;
+  min-width: 300px;
+  width: 30%;
+  margin-left: 40px;
+  background-color: pink;
+}
+
+.posts {
+  font-size: 1.2em;
+  background-color: lightgreen;
+  width: 60%;
+  line-height: 30px;
+}
+
+.section {
+  font-weight: bolder;
+  color: orange;
+  padding-right: 10px;
+  font-style: italic;
+  text-decoration: underline;
+}
